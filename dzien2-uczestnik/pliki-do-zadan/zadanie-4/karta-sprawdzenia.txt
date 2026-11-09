@@ -1,0 +1,25 @@
+ZADANIE 4 – KARTA SPRAWDZENIA
+Wypełniasz sam, na podstawie poleceń w terminalu. Nie pytasz agenta.
+
+
+Pliki w briefy/                       (ls briefy | wc -l)                  ____
+Pliki w briefy-uporzadkowane/         (ls briefy-uporzadkowane | wc -l)    ____
+Pliki wypisane w do-wyjasnienia.md    (otwórz plik i policz)               ____
+
+Skopiowane + pominięte                (ma być 25)                          ____
+
+Czy git status briefy/ pokazuje zmiany?                                    TAK / NIE
+
+Ile briefów jest w raporcie za marzec?                                     ____
+
+
+Pliki, które sprawiły problem
+(nazwa pliku – co było nie tak – co zrobił agent)
+
+1.
+
+2.
+
+3.
+
+4.

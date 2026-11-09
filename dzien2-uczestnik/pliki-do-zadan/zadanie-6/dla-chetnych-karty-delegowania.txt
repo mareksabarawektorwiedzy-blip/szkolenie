@@ -1,0 +1,23 @@
+ZADANIE 6 (DLA CHĘTNYCH) – DELEGOWAĆ CZY NIE?
+
+Przy każdym zadaniu wpisz DELEGUJ albo NIE DELEGUJ i jedno zdanie dlaczego.
+Pytanie pomocnicze: czy kroki są od siebie niezależne, czy wynik jednego jest potrzebny w drugim?
+
+
+1. Korekta 20 niezależnych opisów produktów do sklepu.
+   Decyzja: ____________   Dlaczego: ___________________________________
+
+2. Wyciągnij budżety z briefów, policz sumy, a na ich podstawie napisz rekomendację na II kwartał.
+   Decyzja: ____________   Dlaczego: ___________________________________
+
+3. Zmień nazwę jednego pliku w folderze zestawienia/.
+   Decyzja: ____________   Dlaczego: ___________________________________
+
+4. Sprawdź trzy niezależne foldery klientów pod kątem briefów bez terminu.
+   Decyzja: ____________   Dlaczego: ___________________________________
+
+5. Znajdź w całym folderze briefy, które dublują się między sobą.
+   Decyzja: ____________   Dlaczego: ___________________________________
+
+6. Popraw literówki w zestawieniu, a potem policz sumy budżetów według kategorii.
+   Decyzja: ____________   Dlaczego: ___________________________________

@@ -1,0 +1,12 @@
+ZADANIE 2 – WYMAGANIA SZEFOWEJ AGENCJI
+
+Te zasady mają się znaleźć w pliku CLAUDE.md. Możesz je sformułować po swojemu.
+
+1. Folder briefy/ jest tylko do odczytu. Agent nie zmienia, nie przenosi i nie usuwa tych plików.
+2. Wszystkie pliki wynikowe trafiają do folderu zestawienia/.
+3. Zestawienia mają postać tabeli.
+4. Daty zapisujemy w formacie RRRR-MM-DD (np. 2026-03-05).
+5. Brakującą informację oznaczamy jako "brak danych". Nigdy nie zgadujemy wartości.
+6. Do zestawień nie przepisujemy danych kontaktowych (imion, nazwisk, e-maili, telefonów).
+7. Agent nie robi git commit bez wyraźnego polecenia.
+8. Miesiąc briefu ustalamy na podstawie pola Termin (nie nazwy pliku).

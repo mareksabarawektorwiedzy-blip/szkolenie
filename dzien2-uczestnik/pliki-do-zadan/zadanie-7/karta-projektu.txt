@@ -1,0 +1,36 @@
+ZADANIE 7 – MÓJ AGENT (zadanie domowe, prezentacja 13.11, 3 minuty)
+
+
+1. ZADANIE
+Jakie powtarzalne zadanie z mojej pracy automatyzuję (jedno zdanie):
+
+Jak często się powtarza:
+
+
+2. WEJŚCIE I WYJŚCIE
+Co jest na wejściu (jakie pliki):
+
+Co ma powstać na wyjściu (jaki plik, w którym folderze):
+
+
+3. CO ZROBIŁEM
+[ ] nowy folder projektu z danymi przykładowymi (bez prawdziwych danych osobowych)
+[ ] git init i commit przed pierwszym uruchomieniem
+[ ] CLAUDE.md (do 30 linii)
+[ ] komenda własna z argumentem: /____________
+[ ] subagent (opcjonalnie): ____________
+
+
+4. CZTERY KRYTERIA TAK/NIE
+Każde musi dać się sprawdzić bez pytania agenta.
+Źle:    "raport jest czytelny"
+Dobrze: "raport ma tyle wierszy, ile plików w folderze wejściowym"
+
+1.                                   Jak sprawdzam:
+2.                                   Jak sprawdzam:
+3.                                   Jak sprawdzam:
+4.                                   Jak sprawdzam:
+
+
+5. CO NIE ZADZIAŁAŁO ZA PIERWSZYM RAZEM I JAK TO POPRAWIŁEM
+
